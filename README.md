@@ -1,2 +1,0 @@
-# POKO
-Poko Displa
